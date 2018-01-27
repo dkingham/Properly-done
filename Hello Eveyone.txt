@@ -1,6 +1,6 @@
 #include "stdio.h"
 
 int main(void) {
-  printf("Clancey Gill\n");
+  printf("Clancey Gill & Dakota Kingham\n");
   return 0;
 }
